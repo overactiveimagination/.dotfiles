@@ -1,0 +1,39 @@
+{
+   "background": {
+      "scripts": [ "jquery-1.8.3.min.js", "settings.js", "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon_19_light.png",
+      "default_popup": "popup.html",
+      "default_title": "Pinboard"
+   },
+   "commands": {
+      "read-later": {
+         "description": "Read Later",
+         "suggested_key": {
+            "default": "Ctrl+Shift+L",
+            "mac": "Command+Shift+L"
+         }
+      },
+      "save-bookmark": {
+         "description": "Save Bookmark",
+         "suggested_key": {
+            "default": "Ctrl+Shift+K",
+            "mac": "Command+Shift+K"
+         }
+      }
+   },
+   "description": "A toolbar button for the Pinboard bookmarking service (http://pinboard.in).",
+   "icons": {
+      "128": "icon_128.png",
+      "64": "icon_64.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCxkB3ErBOg21kx/Z5mMf7JV+c/ov1kztkaborJYAsMvNV9R42y9uaFky/IEmcdRodQzG6o5QQkn9XVcRBDui0D2IOB0XU0Au19xzb3ZFQUbLpi/xhFH8D5wSYuEjzIaGVqaCznJ1nrAYlyLtVuxA9I3WPgWjPungpyMpJ488tH8wIDAQAB",
+   "manifest_version": 2,
+   "name": "Pinboard",
+   "options_page": "options.html",
+   "permissions": [ "tabs", "notifications", "http://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.2.5",
+   "web_accessible_resources": [ "icon_19_dark.png", "icon_19_light.png", "icon_48.png", "icon_64.png", "icon_128.png", "info_16.png", "jquery-1.8.3.min.js", "jquery-ui-1.9.2.custom.min.js", "options.js", "popup.js", "settings.js", "star_12_blue.png", "star_12_gray.png" ]
+}

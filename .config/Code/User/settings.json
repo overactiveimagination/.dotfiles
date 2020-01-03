@@ -1,0 +1,103 @@
+{
+    "editor.minimap.enabled": false,
+    "git.confirmSync": false,
+    "emmet.useNewEmmet": true,
+    "emmet.showExpandedAbbreviation": "always",
+    "eslint.alwaysShowStatus": true,
+    "window.zoomLevel": 1,
+    "workbench.statusBar.visible": true,
+    "explorer.openEditors.visible": 0,
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["j","j"],
+            "after": ["<Esc>"]
+        }
+    ],
+    "editor.tabCompletion": "on",
+    "window.openFilesInNewWindow": "on",
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "vue",
+        "vue-html"
+    ],
+    "files.associations": {
+      "*.js": "javascript"
+    },
+    "window.openFoldersInNewWindow": "on",
+    "workbench.iconTheme": "eq-material-theme-icons-darker",
+    "window.title": "Ziya - ${activeEditorShort}${separator}${rootName}",
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressResultsExplorerNotice": true,
+        "suppressShowKeyBindingsNotice": true,
+        "suppressUpdateNotice": false,
+        "suppressWelcomeNotice": true
+    },
+    "eslint.workingDirectories": [
+        "./scripts"
+    ],
+    "workbench.colorTheme": "Night Owl",
+    "gitlens.keymap": "alternate",
+    "gitlens.historyExplorer.enabled": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "projectManager.any.baseFolders": [
+      "/Users/itemdev/truvalue"
+    ],
+    "gitlens.views.fileHistory.enabled": true,
+    "gitlens.views.lineHistory.enabled": true,
+    "go.gopath": "/Users/itemdev/golang",
+    "workbench.sideBar.location": "right",
+    "npm.enableScriptExplorer": true,
+    "githubPullRequests.includeRemotes": "all",
+    "material-icon-theme.showWelcomeMessage": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.fontSize": 11,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.jsxSingleQuote": true,
+    "prettier.jsxBracketSameLine": true,
+    "[javascriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "breadcrumbs.enabled": true,
+    "gitlens.views.repositories.location": "scm",
+    "gitlens.views.fileHistory.location": "explorer",
+    "gitlens.views.lineHistory.location": "explorer",
+    "gitlens.views.compare.location": "gitlens",
+    "gitlens.views.search.location": "gitlens",
+    "go.useCodeSnippetsOnFunctionSuggest": true,
+    "go.useCodeSnippetsOnFunctionSuggestWithoutType": true,
+    "go.useLanguageServer": true,
+    "go.languageServerExperimentalFeatures": {
+        "diagnostics": true // for diagnostics as you type
+    },
+    "[go]": {
+        "editor.snippetSuggestions": "none",
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true
+        },
+    },
+    "gopls": {
+        "usePlaceholders": true, // add parameter placeholders when completing a function
+        "enhancedHover": true,   // experimental to improve quality of hover (will be on by default soon)
+    },
+    "emmet.showSuggestionsAsSnippets": true,
+    "eslint.autoFixOnSave": true,
+    "prettier.eslintIntegration": true,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "sync.autoDownload": false,
+    "sync.gist": "",
+    "sync.autoUpload": false,
+    "sync.forceUpload": false,
+}

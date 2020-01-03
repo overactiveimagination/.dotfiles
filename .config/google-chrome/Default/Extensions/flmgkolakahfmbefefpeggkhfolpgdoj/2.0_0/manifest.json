@@ -1,0 +1,25 @@
+{
+   "browser_action": {
+      "default_icon": "icon128.png",
+      "default_popup": "settings.html",
+      "default_title": "Manage microphone and camera settings on google hangouts and meet"
+   },
+   "content_scripts": [ {
+      "js": [ "hook_hangouts.js" ],
+      "matches": [ "*://*.google.com/hangouts*", "*://meet.google.com/*" ]
+   } ],
+   "description": "This extension lets you set default mute settings for your microphone and camera in both google hangouts and meet.",
+   "homepage_url": "http://github.com/jjshoe/MuteDefaults",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk2EWp66v1ESMbaPn5x1W5GioaGkips831ze352EI9NCqivpEpgxoLmZOCMgJbOJeumYvmSpLR8hF86mON5JKV6R5Aeqjplf+OwZPT8Zb3mQ2otsSKMyRu2BlD88WrwHzGQquziBtlXmpxpDHhbY5flMqm9l6mwkoDt8x3Ep3aVLnrflLTDJC6IepdemaMQVqNSrcTRDpHPXJlICrN4eZ31qdEKdFaylSXT0cmwwpyxxxFUs64CtYXPQmqUBHYy68Tqa/Mu4sRSqZ6fKTI26F4/HFoMLJsK0YJGiSURlofRZCvDGbHxVx55iZ4YXdZccePQBHmmtMXhjenoWlDOMUwwIDAQAB",
+   "manifest_version": 2,
+   "name": "Mute Defaults",
+   "permissions": [ "storage" ],
+   "short_name": "Mute Defaults",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0"
+}

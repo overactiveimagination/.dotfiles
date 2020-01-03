@@ -1,0 +1,2 @@
+[2020-01-02 13:46:11.820] [renderer1] [error] Extension 'taichi.react-beautify' not found.: Error: Extension 'taichi.react-beautify' not found.
+    at handler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6125:607)

@@ -1,0 +1,22 @@
+/**
+ * BEGIN CRUCIAL STYLES
+ * Do not remove the following properties. They are crucial in guaranteeing the security and styles of the inline menu.
+ */
+
+com-1password-button,
+com-1password-menu,
+com-1password-save-dialog {
+  all: initial !important;
+}
+
+/* END CRUCIAL STYLES */
+
+input[data-com-onepassword-filled="dark"],
+select[data-com-onepassword-filled="dark"] {
+  background-color: rgb(36, 107, 179) !important;
+}
+
+input[data-com-onepassword-filled="light"],
+select[data-com-onepassword-filled="light"] {
+  background-color: hsl(210, 100%, 93%) !important;
+}

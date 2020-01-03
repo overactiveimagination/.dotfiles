@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://www.janvas.com/janvas-app"
+      },
+      "urls": [ "https://www.janvas.com/janvas-app" ]
+   },
+   "icons": {
+      "128": "janvas_128x128.png",
+      "32": "janvas_32x32.png",
+      "64": "janvas_64x64.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCctUj/4VHn73XqMODefIj5iC31v0ZcQsBwJpdGtHiV4/d6QOAVnRtuTeZ3CeiCEEJmkZwHZPd+7J3T+yNdxLiPXwQXps6/u/YM0n8Ch8lDg3WqwRZtHIjFWm71dufpwLiSZAcb/XUsQlhrd5jmr4asaSrtb9OhY4yviNKsiEvEiQIDAQAB",
+   "manifest_version": 2,
+   "name": "Janvas - Online SVG Editor",
+   "permissions": [ "" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "6.2.1"
+}

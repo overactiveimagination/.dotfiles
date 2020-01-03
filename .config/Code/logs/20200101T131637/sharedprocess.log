@@ -1,0 +1,8 @@
+[2020-01-01 13:16:40.930] [sharedprocess] [info] main {"machineId":"c67f7e6ebf8bea0b10618035a765a0cb40e6f752bbb1fb466f56fb7b90ba4ca7","windowId":2}
+[2020-01-01 13:17:20.911] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-01-01 13:18:04.255] [sharedprocess] [info] Installing extension: shan.code-settings-sync
+[2020-01-01 13:18:05.497] [sharedprocess] [info] Downloaded extension: shan.code-settings-sync /tmp/678d61a0-3297-44b3-9f28-40d1e1123c20
+[2020-01-01 13:18:05.612] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.shan.code-settings-sync-3.4.3: shan.code-settings-sync
+[2020-01-01 13:18:05.612] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/shan.code-settings-sync-3.4.3
+[2020-01-01 13:18:05.613] [sharedprocess] [info] Installation completed. shan.code-settings-sync
+[2020-01-01 13:18:05.621] [sharedprocess] [info] Extensions installed successfully: shan.code-settings-sync

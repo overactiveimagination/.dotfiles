@@ -1,0 +1,52 @@
+[2020-01-03 05:21:13.098] [exthost] [info] extension host started
+[2020-01-03 05:21:13.118] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-01-03 05:21:13.118] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-01-03 05:21:13.122] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-01-03 05:21:13.122] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/extension
+[2020-01-03 05:21:13.136] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"*"}
+[2020-01-03 05:21:13.136] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2020-01-03 05:21:13.153] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-01-03 05:21:13.153] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/extension
+[2020-01-03 05:21:13.159] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-01-03 05:21:13.159] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/search-result/dist/extension.js
+[2020-01-03 05:21:13.160] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.project-manager {"startup":true,"extensionId":{"value":"alefragnani.project-manager","_lower":"alefragnani.project-manager"},"activationEvent":"*"}
+[2020-01-03 05:21:13.160] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/miganga/.vscode/extensions/alefragnani.project-manager-10.9.1/dist/extension
+[2020-01-03 05:21:13.164] [exthost] [info] ExtensionService#_doActivateExtension artdiniz.quitcontrol-vscode {"startup":true,"extensionId":{"value":"artdiniz.quitcontrol-vscode","_lower":"artdiniz.quitcontrol-vscode"},"activationEvent":"*"}
+[2020-01-03 05:21:13.164] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/miganga/.vscode/extensions/artdiniz.quitcontrol-vscode-3.1.3/out/extension
+[2020-01-03 05:21:13.169] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2020-01-03 05:21:13.169] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/miganga/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2020-01-03 05:21:13.181] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-01-03 05:21:13.181] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/miganga/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-01-03 05:21:13.198] [exthost] [info] ExtensionService#_doActivateExtension cssho.vscode-svgviewer {"startup":true,"extensionId":{"value":"cssho.vscode-svgviewer","_lower":"cssho.vscode-svgviewer"},"activationEvent":"*"}
+[2020-01-03 05:21:13.198] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/miganga/.vscode/extensions/cssho.vscode-svgviewer-2.0.0/out/src/extension
+[2020-01-03 05:21:13.224] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-01-03 05:21:13.224] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/miganga/.vscode/extensions/dbaeumer.vscode-eslint-2.0.11/client/out/extension
+[2020-01-03 05:21:13.238] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"*"}
+[2020-01-03 05:21:13.238] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/miganga/.vscode/extensions/eamodio.gitlens-10.2.0/dist/extension
+[2020-01-03 05:21:13.290] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2020-01-03 05:21:13.290] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/miganga/.vscode/extensions/editorconfig.editorconfig-0.14.4/out/editorConfigMain.js
+[2020-01-03 05:21:13.315] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2020-01-03 05:21:13.315] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/miganga/.vscode/extensions/equinusocio.vsc-material-theme-30.0.0/out/src/material.theme.config
+[2020-01-03 05:21:13.330] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-01-03 05:21:13.330] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/miganga/.vscode/extensions/esbenp.prettier-vscode-3.18.0/dist/extension
+[2020-01-03 05:21:13.398] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2020-01-03 05:21:13.398] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/miganga/.vscode/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2020-01-03 05:21:13.400] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-rename-tag","_lower":"formulahendry.auto-rename-tag"},"activationEvent":"*"}
+[2020-01-03 05:21:13.400] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/miganga/.vscode/extensions/formulahendry.auto-rename-tag-0.1.1/out/src/extension
+[2020-01-03 05:21:13.403] [exthost] [info] ExtensionService#_doActivateExtension geddski.macros {"startup":true,"extensionId":{"value":"geddski.macros","_lower":"geddski.macros"},"activationEvent":"*"}
+[2020-01-03 05:21:13.403] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/miganga/.vscode/extensions/geddski.macros-1.2.1/extension
+[2020-01-03 05:21:13.448] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"extensionId":{"value":"naumovs.color-highlight","_lower":"naumovs.color-highlight"},"activationEvent":"*"}
+[2020-01-03 05:21:13.448] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/miganga/.vscode/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2020-01-03 05:21:13.453] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-01-03 05:21:13.454] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/miganga/.vscode/extensions/pkief.material-icon-theme-3.9.2/dist/extension
+[2020-01-03 05:21:13.464] [exthost] [info] ExtensionService#_doActivateExtension purplestone.savebackup {"startup":true,"extensionId":{"value":"purplestone.savebackup","_lower":"purplestone.savebackup"},"activationEvent":"*"}
+[2020-01-03 05:21:13.464] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/miganga/.vscode/extensions/purplestone.savebackup-0.0.4/extension
+[2020-01-03 05:21:13.467] [exthost] [info] ExtensionService#_doActivateExtension Shan.code-settings-sync {"startup":true,"extensionId":{"value":"Shan.code-settings-sync","_lower":"shan.code-settings-sync"},"activationEvent":"*"}
+[2020-01-03 05:21:13.467] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/miganga/.vscode/extensions/shan.code-settings-sync-3.4.3/out/extension.js
+[2020-01-03 05:21:13.505] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode {"startup":true,"extensionId":{"value":"WallabyJs.quokka-vscode","_lower":"wallabyjs.quokka-vscode"},"activationEvent":"*"}
+[2020-01-03 05:21:13.505] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/miganga/.vscode/extensions/wallabyjs.quokka-vscode-1.0.267/index
+[2020-01-03 05:21:13.506] [exthost] [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme {"startup":true,"extensionId":{"value":"zhuangtongfa.material-theme","_lower":"zhuangtongfa.material-theme"},"activationEvent":"*"}
+[2020-01-03 05:21:13.506] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/miganga/.vscode/extensions/zhuangtongfa.material-theme-3.2.1/out/extension.js
+[2020-01-03 05:21:13.528] [exthost] [info] eager extensions activated
+[2020-01-03 05:21:13.777] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":true,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"*"}
+[2020-01-03 05:21:13.777] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/miganga/.vscode/extensions/github.vscode-pull-request-github-0.13.0/media/extension

@@ -1,0 +1,2 @@
+chrome.runtime.onMessage.addListener(function(e,t,r){if("getKeywordsSuggestionTags"==e.method){for(var n=document.getElementsByTagName("meta"),a=0;a<n.length;a++)if("keywords"===n[a].getAttribute("name")){var o=n[a].getAttribute("content").toLowerCase().replace(/,/g," ").replace(/;/,"").split(/(\s+)/).filter(function(e){return e.trim().length>0}).sort().filter(function(e,t,r){return!t||e!=r[t-1]});break}r({data:o})}});
+//# sourceMappingURL=keywords_suggestions.js.map

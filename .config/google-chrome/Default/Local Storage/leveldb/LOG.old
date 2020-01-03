@@ -1,0 +1,17 @@
+2020/01/02-14:23:22.130 1915 Reusing MANIFEST /home/miganga/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/01/02-14:23:22.131 1915 Recovering log #192
+2020/01/02-14:23:22.132 1915 Level-0 table #195: started
+2020/01/02-14:23:22.137 1915 Level-0 table #195: 81519 bytes OK
+2020/01/02-14:23:22.140 1915 Delete type=0 #192
+2020/01/02-14:23:59.833 19ce Level-0 table #198: started
+2020/01/02-14:23:59.839 19ce Level-0 table #198: 81757 bytes OK
+2020/01/02-14:23:59.844 19ce Delete type=0 #196
+2020/01/02-14:23:59.844 19ce Compacting 4@0 + 1@1 files
+2020/01/02-14:23:59.858 19ce Generated table #199@0: 695 keys, 641871 bytes
+2020/01/02-14:23:59.858 19ce Compacted 4@0 + 1@1 files => 641871 bytes
+2020/01/02-14:23:59.861 19ce compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/01/02-14:23:59.862 19ce Delete type=2 #195
+2020/01/02-14:23:59.862 19ce Delete type=2 #191
+2020/01/02-14:23:59.862 19ce Delete type=2 #189
+2020/01/02-14:23:59.862 19ce Delete type=2 #198
+2020/01/02-14:23:59.862 19ce Delete type=2 #193

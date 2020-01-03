@@ -1,0 +1,410 @@
+[2020-01-02 13:37:32.377] [sharedprocess] [info] main {"machineId":"c67f7e6ebf8bea0b10618035a765a0cb40e6f752bbb1fb466f56fb7b90ba4ca7","windowId":2}
+[2020-01-02 13:38:12.390] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-01-02 13:44:21.456] [sharedprocess] [info] Installing extension: patbenatar.advanced-new-file
+[2020-01-02 13:44:22.510] [sharedprocess] [info] Downloaded extension: patbenatar.advanced-new-file /tmp/c0f381c5-a968-4e46-8907-dfa7d013c75b
+[2020-01-02 13:44:23.284] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.patbenatar.advanced-new-file-1.2.0: patbenatar.advanced-new-file
+[2020-01-02 13:44:23.284] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/patbenatar.advanced-new-file-1.2.0
+[2020-01-02 13:44:23.285] [sharedprocess] [info] Installation completed. patbenatar.advanced-new-file
+[2020-01-02 13:44:23.293] [sharedprocess] [info] Extensions installed successfully: patbenatar.advanced-new-file
+[2020-01-02 13:44:23.496] [sharedprocess] [info] Installing extension: johnpapa.angular1
+[2020-01-02 13:44:25.324] [sharedprocess] [info] Downloaded extension: johnpapa.angular1 /tmp/5f6d33b4-2b7f-4676-89c9-89507478daa6
+[2020-01-02 13:44:25.364] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.johnpapa.angular1-0.2.1: johnpapa.angular1
+[2020-01-02 13:44:25.365] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/johnpapa.angular1-0.2.1
+[2020-01-02 13:44:25.366] [sharedprocess] [info] Installation completed. johnpapa.angular1
+[2020-01-02 13:44:25.372] [sharedprocess] [info] Extensions installed successfully: johnpapa.angular1
+[2020-01-02 13:44:25.602] [sharedprocess] [info] Installing extension: formulahendry.auto-close-tag
+[2020-01-02 13:44:26.408] [sharedprocess] [info] Downloaded extension: formulahendry.auto-close-tag /tmp/b37a5312-d6bc-400b-9008-e501f5fba323
+[2020-01-02 13:44:26.448] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.formulahendry.auto-close-tag-0.5.6: formulahendry.auto-close-tag
+[2020-01-02 13:44:26.448] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/formulahendry.auto-close-tag-0.5.6
+[2020-01-02 13:44:26.449] [sharedprocess] [info] Installation completed. formulahendry.auto-close-tag
+[2020-01-02 13:44:26.453] [sharedprocess] [info] Extensions installed successfully: formulahendry.auto-close-tag
+[2020-01-02 13:44:26.675] [sharedprocess] [info] Installing extension: formulahendry.auto-rename-tag
+[2020-01-02 13:44:27.003] [sharedprocess] [info] Downloaded extension: formulahendry.auto-rename-tag /tmp/6de4ee12-a83b-4c39-8533-7074c85f107a
+[2020-01-02 13:44:27.018] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.formulahendry.auto-rename-tag-0.1.1: formulahendry.auto-rename-tag
+[2020-01-02 13:44:27.018] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/formulahendry.auto-rename-tag-0.1.1
+[2020-01-02 13:44:27.018] [sharedprocess] [info] Installation completed. formulahendry.auto-rename-tag
+[2020-01-02 13:44:27.022] [sharedprocess] [info] Extensions installed successfully: formulahendry.auto-rename-tag
+[2020-01-02 13:44:27.395] [sharedprocess] [info] Installing extension: ms-vscode.azure-account
+[2020-01-02 13:44:28.254] [sharedprocess] [info] Downloaded extension: ms-vscode.azure-account /tmp/5cc42890-a1bf-4373-942d-5346c2d91921
+[2020-01-02 13:44:28.335] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.ms-vscode.azure-account-0.8.7: ms-vscode.azure-account
+[2020-01-02 13:44:28.335] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/ms-vscode.azure-account-0.8.7
+[2020-01-02 13:44:28.335] [sharedprocess] [info] Installation completed. ms-vscode.azure-account
+[2020-01-02 13:44:28.340] [sharedprocess] [info] Extensions installed successfully: ms-vscode.azure-account
+[2020-01-02 13:44:28.625] [sharedprocess] [info] Installing extension: coenraads.bracket-pair-colorizer
+[2020-01-02 13:44:29.378] [sharedprocess] [info] Downloaded extension: coenraads.bracket-pair-colorizer /tmp/6133b805-83a6-41e3-b686-5501f609f6fe
+[2020-01-02 13:44:29.630] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.coenraads.bracket-pair-colorizer-1.0.61: coenraads.bracket-pair-colorizer
+[2020-01-02 13:44:29.630] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61
+[2020-01-02 13:44:29.630] [sharedprocess] [info] Installation completed. coenraads.bracket-pair-colorizer
+[2020-01-02 13:44:29.636] [sharedprocess] [info] Extensions installed successfully: coenraads.bracket-pair-colorizer
+[2020-01-02 13:44:29.802] [sharedprocess] [info] Installing extension: wmaurer.change-case
+[2020-01-02 13:44:30.197] [sharedprocess] [info] Downloaded extension: wmaurer.change-case /tmp/75d5a018-d1f3-4a31-9313-4ef23f5bc434
+[2020-01-02 13:44:30.241] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.wmaurer.change-case-1.0.0: wmaurer.change-case
+[2020-01-02 13:44:30.241] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/wmaurer.change-case-1.0.0
+[2020-01-02 13:44:30.242] [sharedprocess] [info] Installation completed. wmaurer.change-case
+[2020-01-02 13:44:30.248] [sharedprocess] [info] Extensions installed successfully: wmaurer.change-case
+[2020-01-02 13:44:30.463] [sharedprocess] [info] Installing extension: naumovs.color-highlight
+[2020-01-02 13:44:30.943] [sharedprocess] [info] Downloaded extension: naumovs.color-highlight /tmp/f65e10ac-815c-438b-a304-e303b063709b
+[2020-01-02 13:44:31.045] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.naumovs.color-highlight-2.3.0: naumovs.color-highlight
+[2020-01-02 13:44:31.045] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/naumovs.color-highlight-2.3.0
+[2020-01-02 13:44:31.045] [sharedprocess] [info] Installation completed. naumovs.color-highlight
+[2020-01-02 13:44:31.051] [sharedprocess] [info] Extensions installed successfully: naumovs.color-highlight
+[2020-01-02 13:44:31.286] [sharedprocess] [info] Installing extension: msjsdiag.debugger-for-chrome
+[2020-01-02 13:44:32.762] [sharedprocess] [info] Downloaded extension: msjsdiag.debugger-for-chrome /tmp/9f80fe36-dd78-46ca-958f-07be39607302
+[2020-01-02 13:44:33.017] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.msjsdiag.debugger-for-chrome-4.12.3: msjsdiag.debugger-for-chrome
+[2020-01-02 13:44:33.017] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/msjsdiag.debugger-for-chrome-4.12.3
+[2020-01-02 13:44:33.018] [sharedprocess] [info] Installation completed. msjsdiag.debugger-for-chrome
+[2020-01-02 13:44:33.025] [sharedprocess] [info] Extensions installed successfully: msjsdiag.debugger-for-chrome
+[2020-01-02 13:44:33.226] [sharedprocess] [info] Installing extension: kkapsner.duplicateselection
+[2020-01-02 13:44:34.160] [sharedprocess] [info] Downloaded extension: kkapsner.duplicateselection /tmp/b4b72341-810f-4a19-95c8-268253aee15c
+[2020-01-02 13:44:34.173] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.kkapsner.duplicateselection-1.0.1: kkapsner.duplicateselection
+[2020-01-02 13:44:34.173] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/kkapsner.duplicateselection-1.0.1
+[2020-01-02 13:44:34.174] [sharedprocess] [info] Installation completed. kkapsner.duplicateselection
+[2020-01-02 13:44:34.178] [sharedprocess] [info] Extensions installed successfully: kkapsner.duplicateselection
+[2020-01-02 13:44:34.344] [sharedprocess] [info] Installing extension: editorconfig.editorconfig
+[2020-01-02 13:44:34.695] [sharedprocess] [info] Downloaded extension: editorconfig.editorconfig /tmp/9d0de889-94a5-4426-8d2b-940a18a4246e
+[2020-01-02 13:44:34.729] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.editorconfig.editorconfig-0.14.4: editorconfig.editorconfig
+[2020-01-02 13:44:34.729] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/editorconfig.editorconfig-0.14.4
+[2020-01-02 13:44:34.729] [sharedprocess] [info] Installation completed. editorconfig.editorconfig
+[2020-01-02 13:44:34.734] [sharedprocess] [info] Extensions installed successfully: editorconfig.editorconfig
+[2020-01-02 13:44:34.894] [sharedprocess] [info] Installing extension: letrieu.expand-region
+[2020-01-02 13:44:35.203] [sharedprocess] [info] Downloaded extension: letrieu.expand-region /tmp/548fb9b2-36b4-44d2-b283-cfac5c0a1622
+[2020-01-02 13:44:35.242] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.letrieu.expand-region-0.1.4: letrieu.expand-region
+[2020-01-02 13:44:35.242] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/letrieu.expand-region-0.1.4
+[2020-01-02 13:44:35.243] [sharedprocess] [info] Installation completed. letrieu.expand-region
+[2020-01-02 13:44:35.248] [sharedprocess] [info] Extensions installed successfully: letrieu.expand-region
+[2020-01-02 13:44:35.416] [sharedprocess] [info] Installing extension: file-icons.file-icons
+[2020-01-02 13:44:36.073] [sharedprocess] [info] Downloaded extension: file-icons.file-icons /tmp/c76c0a50-f6a0-4e44-8462-0cad31f63f5a
+[2020-01-02 13:44:36.111] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.file-icons.file-icons-1.0.20: file-icons.file-icons
+[2020-01-02 13:44:36.111] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/file-icons.file-icons-1.0.20
+[2020-01-02 13:44:36.111] [sharedprocess] [info] Installation completed. file-icons.file-icons
+[2020-01-02 13:44:36.116] [sharedprocess] [info] Extensions installed successfully: file-icons.file-icons
+[2020-01-02 13:44:36.301] [sharedprocess] [info] Installing extension: eamodio.find-related
+[2020-01-02 13:44:37.296] [sharedprocess] [info] Downloaded extension: eamodio.find-related /tmp/dd003ef3-b1ff-430b-851b-44c2eef00262
+[2020-01-02 13:44:37.319] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.eamodio.find-related-0.9.0: eamodio.find-related
+[2020-01-02 13:44:37.320] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/eamodio.find-related-0.9.0
+[2020-01-02 13:44:37.321] [sharedprocess] [info] Installation completed. eamodio.find-related
+[2020-01-02 13:44:37.327] [sharedprocess] [info] Extensions installed successfully: eamodio.find-related
+[2020-01-02 13:44:37.532] [sharedprocess] [info] Installing extension: donjayamanne.githistory
+[2020-01-02 13:44:39.291] [sharedprocess] [info] Downloaded extension: donjayamanne.githistory /tmp/f4119a5d-3258-48b3-870f-6205a192bfef
+[2020-01-02 13:44:40.000] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.donjayamanne.githistory-0.4.12: donjayamanne.githistory
+[2020-01-02 13:44:40.000] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/donjayamanne.githistory-0.4.12
+[2020-01-02 13:44:40.000] [sharedprocess] [info] Installation completed. donjayamanne.githistory
+[2020-01-02 13:44:40.010] [sharedprocess] [info] Extensions installed successfully: donjayamanne.githistory
+[2020-01-02 13:44:40.315] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2020-01-02 13:44:41.635] [sharedprocess] [info] Downloaded extension: eamodio.gitlens /tmp/756b2cd6-da52-4974-905b-267da42bbb6a
+[2020-01-02 13:44:41.828] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.eamodio.gitlens-10.2.0: eamodio.gitlens
+[2020-01-02 13:44:41.828] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/eamodio.gitlens-10.2.0
+[2020-01-02 13:44:41.832] [sharedprocess] [info] Installation completed. eamodio.gitlens
+[2020-01-02 13:44:41.845] [sharedprocess] [info] Extensions installed successfully: eamodio.gitlens
+[2020-01-02 13:44:42.037] [sharedprocess] [info] Installing extension: wix.glean
+[2020-01-02 13:45:06.583] [sharedprocess] [info] Downloaded extension: wix.glean /tmp/ae6e8045-7bf6-4ad3-b145-8368aadcf00f
+[2020-01-02 13:45:07.532] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.wix.glean-4.19.0: wix.glean
+[2020-01-02 13:45:07.532] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/wix.glean-4.19.0
+[2020-01-02 13:45:07.533] [sharedprocess] [info] Installation completed. wix.glean
+[2020-01-02 13:45:07.544] [sharedprocess] [info] Extensions installed successfully: wix.glean
+[2020-01-02 13:45:07.740] [sharedprocess] [info] Installing extension: ms-vscode.go
+[2020-01-02 13:45:10.950] [sharedprocess] [info] Downloaded extension: ms-vscode.go /tmp/9062b6e6-5a1a-47f0-bf52-5171d1c272cf
+[2020-01-02 13:45:11.855] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.ms-vscode.go-0.12.0: ms-vscode.go
+[2020-01-02 13:45:11.855] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/ms-vscode.go-0.12.0
+[2020-01-02 13:45:11.856] [sharedprocess] [info] Installation completed. ms-vscode.go
+[2020-01-02 13:45:11.868] [sharedprocess] [info] Extensions installed successfully: ms-vscode.go
+[2020-01-02 13:45:12.138] [sharedprocess] [info] Installing extension: joaoacdias.golang-tdd
+[2020-01-02 13:45:12.812] [sharedprocess] [info] Downloaded extension: joaoacdias.golang-tdd /tmp/a05a7927-7a3f-4b19-acb8-4d3d0fd4ad67
+[2020-01-02 13:45:12.848] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.joaoacdias.golang-tdd-0.0.9: joaoacdias.golang-tdd
+[2020-01-02 13:45:12.848] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/joaoacdias.golang-tdd-0.0.9
+[2020-01-02 13:45:12.849] [sharedprocess] [info] Installation completed. joaoacdias.golang-tdd
+[2020-01-02 13:45:12.857] [sharedprocess] [info] Extensions installed successfully: joaoacdias.golang-tdd
+[2020-01-02 13:45:13.064] [sharedprocess] [info] Installing extension: idleberg.hopscotch
+[2020-01-02 13:45:13.472] [sharedprocess] [info] Downloaded extension: idleberg.hopscotch /tmp/caf4934b-cf0e-4484-9780-99fa10c20a86
+[2020-01-02 13:45:13.492] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.idleberg.hopscotch-0.2.2: idleberg.hopscotch
+[2020-01-02 13:45:13.492] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/idleberg.hopscotch-0.2.2
+[2020-01-02 13:45:13.493] [sharedprocess] [info] Installation completed. idleberg.hopscotch
+[2020-01-02 13:45:13.499] [sharedprocess] [info] Extensions installed successfully: idleberg.hopscotch
+[2020-01-02 13:45:13.677] [sharedprocess] [info] Installing extension: abusaidm.html-snippets
+[2020-01-02 13:45:14.121] [sharedprocess] [info] Downloaded extension: abusaidm.html-snippets /tmp/48a2aae5-f9e8-4330-a9c6-7ba8347bded0
+[2020-01-02 13:45:14.138] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.abusaidm.html-snippets-0.2.1: abusaidm.html-snippets
+[2020-01-02 13:45:14.138] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/abusaidm.html-snippets-0.2.1
+[2020-01-02 13:45:14.139] [sharedprocess] [info] Installation completed. abusaidm.html-snippets
+[2020-01-02 13:45:14.146] [sharedprocess] [info] Extensions installed successfully: abusaidm.html-snippets
+[2020-01-02 13:45:14.395] [sharedprocess] [info] Installing extension: bradgashler.htmltagwrap
+[2020-01-02 13:45:16.787] [sharedprocess] [info] Downloaded extension: bradgashler.htmltagwrap /tmp/569f6a92-a2f5-454a-86f1-870612a6ca81
+[2020-01-02 13:45:16.839] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.bradgashler.htmltagwrap-0.0.7: bradgashler.htmltagwrap
+[2020-01-02 13:45:16.840] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/bradgashler.htmltagwrap-0.0.7
+[2020-01-02 13:45:16.840] [sharedprocess] [info] Installation completed. bradgashler.htmltagwrap
+[2020-01-02 13:45:16.847] [sharedprocess] [info] Extensions installed successfully: bradgashler.htmltagwrap
+[2020-01-02 13:45:17.055] [sharedprocess] [info] Installing extension: digitalbrainstem.javascript-ejs-support
+[2020-01-02 13:45:17.363] [sharedprocess] [info] Downloaded extension: digitalbrainstem.javascript-ejs-support /tmp/f64f190b-ed1d-44c4-a98a-f3a88276c84e
+[2020-01-02 13:45:17.381] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.digitalbrainstem.javascript-ejs-support-1.1.3: digitalbrainstem.javascript-ejs-support
+[2020-01-02 13:45:17.381] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/digitalbrainstem.javascript-ejs-support-1.1.3
+[2020-01-02 13:45:17.382] [sharedprocess] [info] Installation completed. digitalbrainstem.javascript-ejs-support
+[2020-01-02 13:45:17.388] [sharedprocess] [info] Extensions installed successfully: digitalbrainstem.javascript-ejs-support
+[2020-01-02 13:45:17.566] [sharedprocess] [info] Installing extension: xabikos.javascriptsnippets
+[2020-01-02 13:45:17.847] [sharedprocess] [info] Downloaded extension: xabikos.javascriptsnippets /tmp/c0d1fb7d-9fe4-4cf7-a906-780ef3256dac
+[2020-01-02 13:45:17.860] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.xabikos.javascriptsnippets-1.7.2: xabikos.javascriptsnippets
+[2020-01-02 13:45:17.860] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/xabikos.javascriptsnippets-1.7.2
+[2020-01-02 13:45:17.861] [sharedprocess] [info] Installation completed. xabikos.javascriptsnippets
+[2020-01-02 13:45:17.867] [sharedprocess] [info] Extensions installed successfully: xabikos.javascriptsnippets
+[2020-01-02 13:45:18.038] [sharedprocess] [info] Installing extension: andys8.jest-snippets
+[2020-01-02 13:45:18.380] [sharedprocess] [info] Downloaded extension: andys8.jest-snippets /tmp/6afb7488-4f5e-49ae-a8bd-4706be59c81c
+[2020-01-02 13:45:18.394] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.andys8.jest-snippets-1.7.0: andys8.jest-snippets
+[2020-01-02 13:45:18.394] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/andys8.jest-snippets-1.7.0
+[2020-01-02 13:45:18.396] [sharedprocess] [info] Installation completed. andys8.jest-snippets
+[2020-01-02 13:45:18.401] [sharedprocess] [info] Extensions installed successfully: andys8.jest-snippets
+[2020-01-02 13:45:18.590] [sharedprocess] [info] Installing extension: geddski.macros
+[2020-01-02 13:45:20.464] [sharedprocess] [info] Downloaded extension: geddski.macros /tmp/d614159a-3647-4262-8efd-c979313b58ef
+[2020-01-02 13:45:20.928] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.geddski.macros-1.2.1: geddski.macros
+[2020-01-02 13:45:20.928] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/geddski.macros-1.2.1
+[2020-01-02 13:45:20.928] [sharedprocess] [info] Installation completed. geddski.macros
+[2020-01-02 13:45:20.933] [sharedprocess] [info] Extensions installed successfully: geddski.macros
+[2020-01-02 13:45:21.153] [sharedprocess] [info] Installing extension: yzhang.markdown-all-in-one
+[2020-01-02 13:45:23.928] [sharedprocess] [info] Downloaded extension: yzhang.markdown-all-in-one /tmp/5ca73f04-9197-457e-9c3d-f96f1455b47f
+[2020-01-02 13:45:24.201] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.yzhang.markdown-all-in-one-2.6.1: yzhang.markdown-all-in-one
+[2020-01-02 13:45:24.201] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/yzhang.markdown-all-in-one-2.6.1
+[2020-01-02 13:45:24.202] [sharedprocess] [info] Installation completed. yzhang.markdown-all-in-one
+[2020-01-02 13:45:24.207] [sharedprocess] [info] Extensions installed successfully: yzhang.markdown-all-in-one
+[2020-01-02 13:45:24.370] [sharedprocess] [info] Installing extension: shd101wyy.markdown-preview-enhanced
+[2020-01-02 13:45:40.966] [sharedprocess] [info] Downloaded extension: shd101wyy.markdown-preview-enhanced /tmp/a5331a4e-d84c-49d6-9aa9-5e1cc087441b
+[2020-01-02 13:45:43.287] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.shd101wyy.markdown-preview-enhanced-0.5.0: shd101wyy.markdown-preview-enhanced
+[2020-01-02 13:45:43.287] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.5.0
+[2020-01-02 13:45:43.289] [sharedprocess] [info] Installation completed. shd101wyy.markdown-preview-enhanced
+[2020-01-02 13:45:43.318] [sharedprocess] [info] Extensions installed successfully: shd101wyy.markdown-preview-enhanced
+[2020-01-02 13:45:43.526] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2020-01-02 13:45:44.492] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /tmp/7a60f970-7ba8-43a0-b6d7-b05c4ebb9675
+[2020-01-02 13:45:44.770] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.pkief.material-icon-theme-3.9.2: pkief.material-icon-theme
+[2020-01-02 13:45:44.770] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/pkief.material-icon-theme-3.9.2
+[2020-01-02 13:45:44.771] [sharedprocess] [info] Installation completed. pkief.material-icon-theme
+[2020-01-02 13:45:44.781] [sharedprocess] [info] Extensions installed successfully: pkief.material-icon-theme
+[2020-01-02 13:45:45.023] [sharedprocess] [info] Installing extension: whizkydee.material-palenight-theme
+[2020-01-02 13:45:45.424] [sharedprocess] [info] Downloaded extension: whizkydee.material-palenight-theme /tmp/0b57fe34-5f82-4be3-93e7-85815fbe5c42
+[2020-01-02 13:45:45.446] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.whizkydee.material-palenight-theme-1.9.7: whizkydee.material-palenight-theme
+[2020-01-02 13:45:45.446] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/whizkydee.material-palenight-theme-1.9.7
+[2020-01-02 13:45:45.446] [sharedprocess] [info] Installation completed. whizkydee.material-palenight-theme
+[2020-01-02 13:45:45.450] [sharedprocess] [info] Extensions installed successfully: whizkydee.material-palenight-theme
+[2020-01-02 13:45:45.670] [sharedprocess] [info] Installing extension: zhuangtongfa.material-theme
+[2020-01-02 13:45:46.091] [sharedprocess] [info] Downloaded extension: zhuangtongfa.material-theme /tmp/c9ee6abc-5155-4ea3-bbb4-c83a5cdaddbf
+[2020-01-02 13:45:46.170] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.zhuangtongfa.material-theme-3.2.1: zhuangtongfa.material-theme
+[2020-01-02 13:45:46.170] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/zhuangtongfa.material-theme-3.2.1
+[2020-01-02 13:45:46.170] [sharedprocess] [info] Installation completed. zhuangtongfa.material-theme
+[2020-01-02 13:45:46.173] [sharedprocess] [info] Extensions installed successfully: zhuangtongfa.material-theme
+[2020-01-02 13:45:46.405] [sharedprocess] [info] Installing extension: philsinatra.nested-comments
+[2020-01-02 13:45:52.670] [sharedprocess] [info] Downloaded extension: philsinatra.nested-comments /tmp/b3cfd107-d8e1-43df-b1de-5d6dad72bd9e
+[2020-01-02 13:45:52.768] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.philsinatra.nested-comments-2.3.1: philsinatra.nested-comments
+[2020-01-02 13:45:52.768] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/philsinatra.nested-comments-2.3.1
+[2020-01-02 13:45:52.768] [sharedprocess] [info] Installation completed. philsinatra.nested-comments
+[2020-01-02 13:45:52.772] [sharedprocess] [info] Extensions installed successfully: philsinatra.nested-comments
+[2020-01-02 13:45:52.999] [sharedprocess] [info] Installing extension: sdras.night-owl
+[2020-01-02 13:45:54.184] [sharedprocess] [info] Downloaded extension: sdras.night-owl /tmp/e4d2c96d-ea59-4685-ae68-e9996b6f2393
+[2020-01-02 13:45:54.238] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.sdras.night-owl-1.1.3: sdras.night-owl
+[2020-01-02 13:45:54.238] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/sdras.night-owl-1.1.3
+[2020-01-02 13:45:54.238] [sharedprocess] [info] Installation completed. sdras.night-owl
+[2020-01-02 13:45:54.241] [sharedprocess] [info] Extensions installed successfully: sdras.night-owl
+[2020-01-02 13:45:54.431] [sharedprocess] [info] Installing extension: christian-kohler.npm-intellisense
+[2020-01-02 13:45:55.577] [sharedprocess] [info] Downloaded extension: christian-kohler.npm-intellisense /tmp/a18466f2-87f4-492f-b22d-d2ecab8078c1
+[2020-01-02 13:45:55.638] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.christian-kohler.npm-intellisense-1.3.0: christian-kohler.npm-intellisense
+[2020-01-02 13:45:55.638] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/christian-kohler.npm-intellisense-1.3.0
+[2020-01-02 13:45:55.638] [sharedprocess] [info] Installation completed. christian-kohler.npm-intellisense
+[2020-01-02 13:45:55.643] [sharedprocess] [info] Extensions installed successfully: christian-kohler.npm-intellisense
+[2020-01-02 13:45:55.870] [sharedprocess] [info] Installing extension: azemoh.one-monokai
+[2020-01-02 13:45:56.396] [sharedprocess] [info] Downloaded extension: azemoh.one-monokai /tmp/9be4bff9-9121-4958-bb3e-ba4e6e94ac11
+[2020-01-02 13:45:56.441] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.azemoh.one-monokai-0.4.6: azemoh.one-monokai
+[2020-01-02 13:45:56.441] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/azemoh.one-monokai-0.4.6
+[2020-01-02 13:45:56.441] [sharedprocess] [info] Installation completed. azemoh.one-monokai
+[2020-01-02 13:45:56.444] [sharedprocess] [info] Extensions installed successfully: azemoh.one-monokai
+[2020-01-02 13:45:56.992] [sharedprocess] [info] Installing extension: christian-kohler.path-intellisense
+[2020-01-02 13:45:57.269] [sharedprocess] [info] Downloaded extension: christian-kohler.path-intellisense /tmp/52e8b7f4-7a5a-4de3-8138-ba5ef54de717
+[2020-01-02 13:45:57.308] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.christian-kohler.path-intellisense-1.4.2: christian-kohler.path-intellisense
+[2020-01-02 13:45:57.308] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/christian-kohler.path-intellisense-1.4.2
+[2020-01-02 13:45:57.309] [sharedprocess] [info] Installation completed. christian-kohler.path-intellisense
+[2020-01-02 13:45:57.311] [sharedprocess] [info] Extensions installed successfully: christian-kohler.path-intellisense
+[2020-01-02 13:45:57.510] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2020-01-02 13:45:59.684] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /tmp/edacc621-6aa1-4fe0-98c0-532687d0cda9
+[2020-01-02 13:45:59.801] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.esbenp.prettier-vscode-3.18.0: esbenp.prettier-vscode
+[2020-01-02 13:45:59.801] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/esbenp.prettier-vscode-3.18.0
+[2020-01-02 13:45:59.802] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2020-01-02 13:45:59.806] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2020-01-02 13:45:59.984] [sharedprocess] [info] Installing extension: alefragnani.project-manager
+[2020-01-02 13:46:02.706] [sharedprocess] [info] Downloaded extension: alefragnani.project-manager /tmp/8e6ce81f-1f59-4c7a-8de3-76ed7fcaad39
+[2020-01-02 13:46:02.771] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.alefragnani.project-manager-10.9.1: alefragnani.project-manager
+[2020-01-02 13:46:02.771] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/alefragnani.project-manager-10.9.1
+[2020-01-02 13:46:02.771] [sharedprocess] [info] Installation completed. alefragnani.project-manager
+[2020-01-02 13:46:02.775] [sharedprocess] [info] Extensions installed successfully: alefragnani.project-manager
+[2020-01-02 13:46:03.031] [sharedprocess] [info] Installing extension: artdiniz.quitcontrol-vscode
+[2020-01-02 13:46:06.177] [sharedprocess] [info] Downloaded extension: artdiniz.quitcontrol-vscode /tmp/a9310027-a93c-4bbc-9514-539de479e9a7
+[2020-01-02 13:46:06.240] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.artdiniz.quitcontrol-vscode-3.1.3: artdiniz.quitcontrol-vscode
+[2020-01-02 13:46:06.240] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/artdiniz.quitcontrol-vscode-3.1.3
+[2020-01-02 13:46:06.241] [sharedprocess] [info] Installation completed. artdiniz.quitcontrol-vscode
+[2020-01-02 13:46:06.245] [sharedprocess] [info] Extensions installed successfully: artdiniz.quitcontrol-vscode
+[2020-01-02 13:46:06.525] [sharedprocess] [info] Installing extension: wallabyjs.quokka-vscode
+[2020-01-02 13:46:10.606] [sharedprocess] [info] Downloaded extension: wallabyjs.quokka-vscode /tmp/a101f6a3-a8dc-4f88-9b36-c95ef98694cd
+[2020-01-02 13:46:11.647] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.wallabyjs.quokka-vscode-1.0.267: wallabyjs.quokka-vscode
+[2020-01-02 13:46:11.647] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/wallabyjs.quokka-vscode-1.0.267
+[2020-01-02 13:46:11.650] [sharedprocess] [info] Installation completed. wallabyjs.quokka-vscode
+[2020-01-02 13:46:11.662] [sharedprocess] [info] Extensions installed successfully: wallabyjs.quokka-vscode
+[2020-01-02 13:46:12.019] [sharedprocess] [info] Installing extension: purplestone.savebackup
+[2020-01-02 13:46:12.874] [sharedprocess] [info] Downloaded extension: purplestone.savebackup /tmp/4a87cd3e-b70c-4cb1-afa3-0bd998358a24
+[2020-01-02 13:46:12.902] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.purplestone.savebackup-0.0.4: purplestone.savebackup
+[2020-01-02 13:46:12.902] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/purplestone.savebackup-0.0.4
+[2020-01-02 13:46:12.902] [sharedprocess] [info] Installation completed. purplestone.savebackup
+[2020-01-02 13:46:12.905] [sharedprocess] [info] Extensions installed successfully: purplestone.savebackup
+[2020-01-02 13:46:13.061] [sharedprocess] [info] Installing extension: vilicvane.sensitive-replace
+[2020-01-02 13:46:13.871] [sharedprocess] [info] Downloaded extension: vilicvane.sensitive-replace /tmp/db1cebbe-4b43-42c3-b737-4a26b34739e5
+[2020-01-02 13:46:13.885] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.vilicvane.sensitive-replace-0.1.1: vilicvane.sensitive-replace
+[2020-01-02 13:46:13.886] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/vilicvane.sensitive-replace-0.1.1
+[2020-01-02 13:46:13.886] [sharedprocess] [info] Installation completed. vilicvane.sensitive-replace
+[2020-01-02 13:46:13.892] [sharedprocess] [info] Extensions installed successfully: vilicvane.sensitive-replace
+[2020-01-02 13:46:14.054] [sharedprocess] [info] Installing extension: qinjia.seti-icons
+[2020-01-02 13:46:14.796] [sharedprocess] [info] Downloaded extension: qinjia.seti-icons /tmp/4c6bc440-b9a8-4f53-b7a7-0662903e355f
+[2020-01-02 13:46:14.866] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.qinjia.seti-icons-0.1.3: qinjia.seti-icons
+[2020-01-02 13:46:14.867] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/qinjia.seti-icons-0.1.3
+[2020-01-02 13:46:14.867] [sharedprocess] [info] Installation completed. qinjia.seti-icons
+[2020-01-02 13:46:14.874] [sharedprocess] [info] Extensions installed successfully: qinjia.seti-icons
+[2020-01-02 13:46:15.062] [sharedprocess] [info] Installing extension: smlombardi.slime
+[2020-01-02 13:46:16.163] [sharedprocess] [info] Downloaded extension: smlombardi.slime /tmp/3577b763-4f63-405f-8ff0-afa834d591d0
+[2020-01-02 13:46:16.205] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.smlombardi.slime-2.34.0: smlombardi.slime
+[2020-01-02 13:46:16.205] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/smlombardi.slime-2.34.0
+[2020-01-02 13:46:16.205] [sharedprocess] [info] Installation completed. smlombardi.slime
+[2020-01-02 13:46:16.213] [sharedprocess] [info] Extensions installed successfully: smlombardi.slime
+[2020-01-02 13:46:16.448] [sharedprocess] [info] Installing extension: nikitakunevich.snippet-creator
+[2020-01-02 13:46:17.469] [sharedprocess] [info] Downloaded extension: nikitakunevich.snippet-creator /tmp/47ac798c-4a78-45c2-a9ce-c1a87f6a1015
+[2020-01-02 13:46:17.488] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.nikitakunevich.snippet-creator-0.0.5: nikitakunevich.snippet-creator
+[2020-01-02 13:46:17.489] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/nikitakunevich.snippet-creator-0.0.5
+[2020-01-02 13:46:17.490] [sharedprocess] [info] Installation completed. nikitakunevich.snippet-creator
+[2020-01-02 13:46:17.494] [sharedprocess] [info] Extensions installed successfully: nikitakunevich.snippet-creator
+[2020-01-02 13:46:17.677] [sharedprocess] [info] Installing extension: wesbos.theme-cobalt2
+[2020-01-02 13:46:18.422] [sharedprocess] [info] Downloaded extension: wesbos.theme-cobalt2 /tmp/bb4c980e-a1fc-4555-8119-aeb594538e57
+[2020-01-02 13:46:18.460] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.wesbos.theme-cobalt2-2.1.6: wesbos.theme-cobalt2
+[2020-01-02 13:46:18.460] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/wesbos.theme-cobalt2-2.1.6
+[2020-01-02 13:46:18.461] [sharedprocess] [info] Installation completed. wesbos.theme-cobalt2
+[2020-01-02 13:46:18.465] [sharedprocess] [info] Extensions installed successfully: wesbos.theme-cobalt2
+[2020-01-02 13:46:18.638] [sharedprocess] [info] Installing extension: dracula-theme.theme-dracula
+[2020-01-02 13:46:19.035] [sharedprocess] [info] Downloaded extension: dracula-theme.theme-dracula /tmp/fbb66987-e61b-416c-bba7-28f7e6008991
+[2020-01-02 13:46:19.043] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.dracula-theme.theme-dracula-2.19.0: dracula-theme.theme-dracula
+[2020-01-02 13:46:19.043] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/dracula-theme.theme-dracula-2.19.0
+[2020-01-02 13:46:19.043] [sharedprocess] [info] Installation completed. dracula-theme.theme-dracula
+[2020-01-02 13:46:19.046] [sharedprocess] [info] Extensions installed successfully: dracula-theme.theme-dracula
+[2020-01-02 13:46:19.211] [sharedprocess] [info] Installing extension: tnaseem.theme-seti
+[2020-01-02 13:46:20.016] [sharedprocess] [info] Downloaded extension: tnaseem.theme-seti /tmp/73ac4403-211b-4568-b188-9a4842184817
+[2020-01-02 13:46:20.064] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.tnaseem.theme-seti-0.0.2: tnaseem.theme-seti
+[2020-01-02 13:46:20.064] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/tnaseem.theme-seti-0.0.2
+[2020-01-02 13:46:20.065] [sharedprocess] [info] Installation completed. tnaseem.theme-seti
+[2020-01-02 13:46:20.068] [sharedprocess] [info] Extensions installed successfully: tnaseem.theme-seti
+[2020-01-02 13:46:20.238] [sharedprocess] [info] Installing extension: smukkekim.theme-setimonokai
+[2020-01-02 13:46:20.678] [sharedprocess] [info] Downloaded extension: smukkekim.theme-setimonokai /tmp/65d40470-ae9b-46c8-8369-a5b2a39a052d
+[2020-01-02 13:46:20.698] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.smukkekim.theme-setimonokai-0.0.1: smukkekim.theme-setimonokai
+[2020-01-02 13:46:20.698] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/smukkekim.theme-setimonokai-0.0.1
+[2020-01-02 13:46:20.699] [sharedprocess] [info] Installation completed. smukkekim.theme-setimonokai
+[2020-01-02 13:46:20.704] [sharedprocess] [info] Extensions installed successfully: smukkekim.theme-setimonokai
+[2020-01-02 13:46:20.951] [sharedprocess] [info] Installing extension: v4run.transpose
+[2020-01-02 13:46:21.336] [sharedprocess] [info] Downloaded extension: v4run.transpose /tmp/d06ff7a4-49c5-458f-ab2f-76d54c0ac996
+[2020-01-02 13:46:21.346] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.v4run.transpose-0.0.5: v4run.transpose
+[2020-01-02 13:46:21.347] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/v4run.transpose-0.0.5
+[2020-01-02 13:46:21.348] [sharedprocess] [info] Installation completed. v4run.transpose
+[2020-01-02 13:46:21.353] [sharedprocess] [info] Extensions installed successfully: v4run.transpose
+[2020-01-02 13:46:21.572] [sharedprocess] [info] Installing extension: eg2.tslint
+[2020-01-02 13:46:22.107] [sharedprocess] [info] Downloaded extension: eg2.tslint /tmp/7dc1f99c-a33e-40fc-859a-7f20835da8fa
+[2020-01-02 13:46:22.207] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.eg2.tslint-1.0.44: eg2.tslint
+[2020-01-02 13:46:22.207] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/eg2.tslint-1.0.44
+[2020-01-02 13:46:22.207] [sharedprocess] [info] Installation completed. eg2.tslint
+[2020-01-02 13:46:22.212] [sharedprocess] [info] Extensions installed successfully: eg2.tslint
+[2020-01-02 13:46:22.380] [sharedprocess] [info] Installing extension: bibhasdn.unique-lines
+[2020-01-02 13:46:22.776] [sharedprocess] [info] Downloaded extension: bibhasdn.unique-lines /tmp/5059ce73-8ac8-40a9-9732-9e489b718d7a
+[2020-01-02 13:46:22.787] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.bibhasdn.unique-lines-1.0.0: bibhasdn.unique-lines
+[2020-01-02 13:46:22.787] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/bibhasdn.unique-lines-1.0.0
+[2020-01-02 13:46:22.787] [sharedprocess] [info] Installation completed. bibhasdn.unique-lines
+[2020-01-02 13:46:22.790] [sharedprocess] [info] Extensions installed successfully: bibhasdn.unique-lines
+[2020-01-02 13:46:22.974] [sharedprocess] [info] Installing extension: equinusocio.vsc-material-theme
+[2020-01-02 13:46:23.554] [sharedprocess] [info] Downloaded extension: equinusocio.vsc-material-theme /tmp/b2007627-9d68-4218-84f3-e5be0e84d6ce
+[2020-01-02 13:46:23.591] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.equinusocio.vsc-material-theme-30.0.0: equinusocio.vsc-material-theme
+[2020-01-02 13:46:23.591] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/equinusocio.vsc-material-theme-30.0.0
+[2020-01-02 13:46:23.591] [sharedprocess] [info] Installation completed. equinusocio.vsc-material-theme
+[2020-01-02 13:46:23.595] [sharedprocess] [info] Extensions installed successfully: equinusocio.vsc-material-theme
+[2020-01-02 13:46:24.021] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-azureappservice
+[2020-01-02 13:46:25.398] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-azureappservice /tmp/4008c17d-9a64-402a-9951-25d60c4a7cd1
+[2020-01-02 13:46:25.521] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.ms-azuretools.vscode-azureappservice-0.16.2: ms-azuretools.vscode-azureappservice
+[2020-01-02 13:46:25.521] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/ms-azuretools.vscode-azureappservice-0.16.2
+[2020-01-02 13:46:25.522] [sharedprocess] [info] Installation completed. ms-azuretools.vscode-azureappservice
+[2020-01-02 13:46:25.579] [sharedprocess] [info] Extensions installed successfully: ms-azuretools.vscode-azureappservice
+[2020-01-02 13:46:25.744] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2020-01-02 13:46:27.127] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker /tmp/5beb788d-8f93-48c3-abc4-549b883621a8
+[2020-01-02 13:46:27.269] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.ms-azuretools.vscode-docker-0.9.0: ms-azuretools.vscode-docker
+[2020-01-02 13:46:27.269] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/ms-azuretools.vscode-docker-0.9.0
+[2020-01-02 13:46:27.271] [sharedprocess] [info] Installation completed. ms-azuretools.vscode-docker
+[2020-01-02 13:46:27.323] [sharedprocess] [info] Extensions installed successfully: ms-azuretools.vscode-docker
+[2020-01-02 13:46:27.508] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2020-01-02 13:46:27.873] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint /tmp/f8410001-4520-477c-a621-748e99d0448b
+[2020-01-02 13:46:27.907] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.dbaeumer.vscode-eslint-2.0.11: dbaeumer.vscode-eslint
+[2020-01-02 13:46:27.907] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/dbaeumer.vscode-eslint-2.0.11
+[2020-01-02 13:46:27.909] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2020-01-02 13:46:27.913] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint
+[2020-01-02 13:46:28.092] [sharedprocess] [info] Installing extension: sleistner.vscode-fileutils
+[2020-01-02 13:46:29.002] [sharedprocess] [info] Downloaded extension: sleistner.vscode-fileutils /tmp/374bec61-ae5f-46b6-bc29-a0dd62134320
+[2020-01-02 13:46:29.047] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.sleistner.vscode-fileutils-3.0.0: sleistner.vscode-fileutils
+[2020-01-02 13:46:29.047] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/sleistner.vscode-fileutils-3.0.0
+[2020-01-02 13:46:29.048] [sharedprocess] [info] Installation completed. sleistner.vscode-fileutils
+[2020-01-02 13:46:29.051] [sharedprocess] [info] Extensions installed successfully: sleistner.vscode-fileutils
+[2020-01-02 13:46:29.351] [sharedprocess] [info] Installing extension: ecmel.vscode-html-css
+[2020-01-02 13:46:29.895] [sharedprocess] [info] Downloaded extension: ecmel.vscode-html-css /tmp/f83713e0-b125-47d9-a7c8-ae84f6c0d93d
+[2020-01-02 13:46:29.938] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.ecmel.vscode-html-css-0.2.3: ecmel.vscode-html-css
+[2020-01-02 13:46:29.938] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/ecmel.vscode-html-css-0.2.3
+[2020-01-02 13:46:29.939] [sharedprocess] [info] Installation completed. ecmel.vscode-html-css
+[2020-01-02 13:46:29.944] [sharedprocess] [info] Extensions installed successfully: ecmel.vscode-html-css
+[2020-01-02 13:46:30.129] [sharedprocess] [info] Installing extension: wix.vscode-import-cost
+[2020-01-02 13:46:40.436] [sharedprocess] [info] Downloaded extension: wix.vscode-import-cost /tmp/9991a5c7-2812-4111-bc7b-ed349a36321b
+[2020-01-02 13:46:44.336] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.wix.vscode-import-cost-2.12.0: wix.vscode-import-cost
+[2020-01-02 13:46:44.336] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/wix.vscode-import-cost-2.12.0
+[2020-01-02 13:46:44.338] [sharedprocess] [info] Installation completed. wix.vscode-import-cost
+[2020-01-02 13:46:44.352] [sharedprocess] [info] Extensions installed successfully: wix.vscode-import-cost
+[2020-01-02 13:46:44.527] [sharedprocess] [info] Installing extension: orta.vscode-jest
+[2020-01-02 13:46:45.846] [sharedprocess] [info] Downloaded extension: orta.vscode-jest /tmp/07dea871-e48c-4109-9de3-7270502efecc
+[2020-01-02 13:46:45.892] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.orta.vscode-jest-3.1.0: orta.vscode-jest
+[2020-01-02 13:46:45.892] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/orta.vscode-jest-3.1.0
+[2020-01-02 13:46:45.893] [sharedprocess] [info] Installation completed. orta.vscode-jest
+[2020-01-02 13:46:45.899] [sharedprocess] [info] Extensions installed successfully: orta.vscode-jest
+[2020-01-02 13:46:46.141] [sharedprocess] [info] Installing extension: whtouche.vscode-js-console-utils
+[2020-01-02 13:46:46.440] [sharedprocess] [info] Downloaded extension: whtouche.vscode-js-console-utils /tmp/560acad9-f0a1-4672-bc19-dd61023bc6aa
+[2020-01-02 13:46:46.454] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.whtouche.vscode-js-console-utils-0.7.0: whtouche.vscode-js-console-utils
+[2020-01-02 13:46:46.454] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/whtouche.vscode-js-console-utils-0.7.0
+[2020-01-02 13:46:46.455] [sharedprocess] [info] Installation completed. whtouche.vscode-js-console-utils
+[2020-01-02 13:46:46.470] [sharedprocess] [info] Extensions installed successfully: whtouche.vscode-js-console-utils
+[2020-01-02 13:46:46.654] [sharedprocess] [info] Installing extension: bigous.vscode-multi-line-tricks
+[2020-01-02 13:46:48.337] [sharedprocess] [info] Downloaded extension: bigous.vscode-multi-line-tricks /tmp/cec025d3-02e0-49d4-85a0-2bbcd2608ac8
+[2020-01-02 13:46:48.521] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.bigous.vscode-multi-line-tricks-0.0.3: bigous.vscode-multi-line-tricks
+[2020-01-02 13:46:48.521] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/bigous.vscode-multi-line-tricks-0.0.3
+[2020-01-02 13:46:48.522] [sharedprocess] [info] Installation completed. bigous.vscode-multi-line-tricks
+[2020-01-02 13:46:48.527] [sharedprocess] [info] Extensions installed successfully: bigous.vscode-multi-line-tricks
+[2020-01-02 13:46:48.711] [sharedprocess] [info] Installing extension: github.vscode-pull-request-github
+[2020-01-02 13:46:49.438] [sharedprocess] [info] Downloaded extension: github.vscode-pull-request-github /tmp/b00f6181-2165-49f9-96c7-250b7c391e51
+[2020-01-02 13:46:49.498] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.github.vscode-pull-request-github-0.13.0: github.vscode-pull-request-github
+[2020-01-02 13:46:49.498] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/github.vscode-pull-request-github-0.13.0
+[2020-01-02 13:46:49.499] [sharedprocess] [info] Installation completed. github.vscode-pull-request-github
+[2020-01-02 13:46:49.547] [sharedprocess] [info] Extensions installed successfully: github.vscode-pull-request-github
+[2020-01-02 13:46:49.791] [sharedprocess] [info] Installing extension: cssho.vscode-svgviewer
+[2020-01-02 13:47:04.796] [sharedprocess] [info] Downloaded extension: cssho.vscode-svgviewer /tmp/1b7671a8-ba87-4400-9c15-8753d22fe7ba
+[2020-01-02 13:47:05.533] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.cssho.vscode-svgviewer-2.0.0: cssho.vscode-svgviewer
+[2020-01-02 13:47:05.533] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/cssho.vscode-svgviewer-2.0.0
+[2020-01-02 13:47:05.534] [sharedprocess] [info] Installation completed. cssho.vscode-svgviewer
+[2020-01-02 13:47:05.544] [sharedprocess] [info] Extensions installed successfully: cssho.vscode-svgviewer
+[2020-01-02 13:47:05.804] [sharedprocess] [info] Installing extension: akamud.vscode-theme-onedark
+[2020-01-02 13:47:06.120] [sharedprocess] [info] Downloaded extension: akamud.vscode-theme-onedark /tmp/9e30cad8-4ca4-4dea-849e-6dec4c3dd6f9
+[2020-01-02 13:47:06.128] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.akamud.vscode-theme-onedark-2.1.0: akamud.vscode-theme-onedark
+[2020-01-02 13:47:06.128] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/akamud.vscode-theme-onedark-2.1.0
+[2020-01-02 13:47:06.129] [sharedprocess] [info] Installation completed. akamud.vscode-theme-onedark
+[2020-01-02 13:47:06.133] [sharedprocess] [info] Extensions installed successfully: akamud.vscode-theme-onedark
+[2020-01-02 13:47:06.318] [sharedprocess] [info] Installing extension: britesnow.vscode-toggle-quotes
+[2020-01-02 13:47:06.638] [sharedprocess] [info] Downloaded extension: britesnow.vscode-toggle-quotes /tmp/840f4ebb-9ee2-4060-b3ee-911151a7c3a2
+[2020-01-02 13:47:06.653] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.britesnow.vscode-toggle-quotes-0.3.2: britesnow.vscode-toggle-quotes
+[2020-01-02 13:47:06.654] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/britesnow.vscode-toggle-quotes-0.3.2
+[2020-01-02 13:47:06.655] [sharedprocess] [info] Installation completed. britesnow.vscode-toggle-quotes
+[2020-01-02 13:47:06.663] [sharedprocess] [info] Extensions installed successfully: britesnow.vscode-toggle-quotes
+[2020-01-02 13:47:07.034] [sharedprocess] [info] Installing extension: pflannery.vscode-versionlens
+[2020-01-02 13:47:12.317] [sharedprocess] [info] Downloaded extension: pflannery.vscode-versionlens /tmp/654334cc-d1a9-474f-9e12-440261ca7494
+[2020-01-02 13:47:13.797] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.pflannery.vscode-versionlens-0.24.0: pflannery.vscode-versionlens
+[2020-01-02 13:47:13.797] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/pflannery.vscode-versionlens-0.24.0
+[2020-01-02 13:47:13.797] [sharedprocess] [info] Installation completed. pflannery.vscode-versionlens
+[2020-01-02 13:47:13.812] [sharedprocess] [info] Extensions installed successfully: pflannery.vscode-versionlens
+[2020-01-02 13:47:13.995] [sharedprocess] [info] Installing extension: wasteamaccount.webtemplatestudio-dev-nightly
+[2020-01-02 13:48:24.633] [sharedprocess] [info] Downloaded extension: wasteamaccount.webtemplatestudio-dev-nightly /tmp/da11cd38-9fc5-4f3f-aa61-dedf2ef8b721
+[2020-01-02 13:48:28.850] [sharedprocess] [info] Extracted extension to /home/miganga/.vscode/extensions/.wasteamaccount.webtemplatestudio-dev-nightly-0.1.1934601: wasteamaccount.webtemplatestudio-dev-nightly
+[2020-01-02 13:48:28.850] [sharedprocess] [info] Renamed to /home/miganga/.vscode/extensions/wasteamaccount.webtemplatestudio-dev-nightly-0.1.1934601
+[2020-01-02 13:48:28.852] [sharedprocess] [info] Installation completed. wasteamaccount.webtemplatestudio-dev-nightly
+[2020-01-02 13:48:28.941] [sharedprocess] [info] Extensions installed successfully: wasteamaccount.webtemplatestudio-dev-nightly
